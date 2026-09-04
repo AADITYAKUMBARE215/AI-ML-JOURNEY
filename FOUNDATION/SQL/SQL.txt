@@ -1,0 +1,46 @@
+~ TRANSACTIONS (series of operations -> seen as whole)
+
+example :- A sends money to B
+1. deduct 100 from A
+2. Add 100 to B
+Therefore, together they are called a transaction
+
+~ ACID PROPERTIES
+
+-> Atomicity -  All statements succeed or none succeed
+-> Consistency - Data moves from one valid state to another
+-> Isolation - Parallel transactions dont interfere
+-> Durability - Commited data is permanently saved
+
+~ JOINS 
+Joins are used to combine rows from two or more tables based on a related column between them.
+
+-> INNER JOIN
+-> LEFT JOIN    |
+-> RIGHT JOIN   |-> OUTER JOINS
+-> FULL JOIN    |
+
+-> CROSS JOIN
+-> SELF JOIN
+-> LEFT EXCLUSIVE JOIN
+-> RIGHT EXCLUSIVE JOIN
+
+~ SUB QUERIES
+A subquery or a inner query or a nested query is a query within another sql query.
+It involves 2 select statements.
+
+~ VIEWS
+A view is a virtual table based on the result - set of an sql statement.
+(A view always shows up-to-date data. The database engine recreates the view, everytime a user queries it)
+
+-> No data is stored physically (unless its a materialised view in some DBs)
+-> Can include columns from one or more tables.
+-> Can be use in SELECT, JOIN or even WHERE clauses like normal table.
+-> Helps in security by only exposing certain columns to users.
+
+~ INDEX
+Indexes are special database objects that make data retrieval faster.
+DRAWBACK : Increases spped of retrival (SELECT), but slows Write operations (UPDATE,DELETE)
+
+~ STORED PROCEDURES
+Predefined set of SQL statements thatyou can save in database and execute whenever needed.
