@@ -9,27 +9,63 @@ This repository serves as a growing knowledge base containing **concepts, implem
 ## 📂 Repository Structure
 
 ```text
-AI-ML-Journey/
+AI-ML-JOURNEY/
 │
 ├── DATA ANALYSIS/
 │   ├── DATA COLLECTION/
+│   │   ├── CLEANED_DATA/
+│   │   │   └── data1.csv
+│   │   │
+│   │   ├── SCRAPED_DATA/
+│   │   │   └── data1.html
+│   │   │
+│   │   ├── data_collection.ipynb
+│   │   └── data_collection_HW.ipynb
+│   │
 │   ├── DATASETS/
+│   │   ├── employee_data.csv
+│   │   ├── employee_data.json
+│   │   ├── globalAirQuality.csv
+│   │   ├── raw_data.csv
+│   │   ├── sorted_data.csv
+│   │   └── store_data.json
+│   │
 │   ├── MATPLOTLIB/
+│   │   ├── matplotlib_tutorial_1.ipynb
+│   │   └── matplotlib_tutorial_2.ipynb
+│   │
 │   ├── NUMPY/
+│   │   ├── numpy_tutorial_1.ipynb
+│   │   └── numpy_tutorial_2.ipynb
+│   │
 │   ├── PANDAS/
+│   │   ├── pandas_tutorial.ipynb
+│   │   └── thinking_data.ipynb
+│   │
 │   └── SEABORN/
+│       ├── final_plot.png
+│       └── seaborn_tutorial.ipynb
 │
 ├── DEEP LEARNING/
 │
 ├── FOUNDATION/
 │   └── SQL/
+│       ├── SQL.txt
+│       ├── SQL_1.sql
+│       ├── SQL_2.sql
+│       ├── SQL_3.sql
+│       ├── SQL_4.sql
+│       ├── SQL_5.sql
+│       ├── SQL_6.sql
+│       └── SQL_7.sql
 │
 ├── GENERATIVE AI/
 │
 ├── MACHINE LEARNING/
+│   └── SUPERVISED ML/
 │
-├── .gitignore
 ├── .gitattributes
+├── .gitignore
 ├── LICENSE
 └── README.md
 ```
