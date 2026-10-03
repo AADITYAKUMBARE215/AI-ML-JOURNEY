@@ -63,6 +63,13 @@ AI-ML-JOURNEY/
 │
 ├── MACHINE LEARNING/
 │   └── SUPERVISED ML/
+│       ├── DATASETS/
+│       │   ├── heart.csv
+│       │   └── insurance.csv
+│       │
+│       ├── LASSO_REGRESSION.ipynb
+│       ├── LINEAR_REGRESSION.ipynb
+│       └── LOGISTIC_REGRESSION.ipynb
 │
 ├── .gitattributes
 ├── .gitignore
