@@ -52,14 +52,11 @@ build/
 *.log
 
 # ================================
-# Machine Learning / Data
+# ML Model Files
 # ================================
-# Trained model files
 *.pkl
 *.pickle
 *.joblib
-
-# Large model files
 *.h5
 *.hdf5
 *.pt
@@ -67,7 +64,7 @@ build/
 *.onnx
 
 # ================================
-# Temporary / Cache Files
+# Cache / Temporary Files
 # ================================
 .cache/
 tmp/
