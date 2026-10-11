@@ -67,9 +67,11 @@ AI-ML-JOURNEY/
 │       │   ├── heart.csv
 │       │   └── insurance.csv
 │       │
+│       ├── KNN.ipynb
 │       ├── LASSO_REGRESSION.ipynb
 │       ├── LINEAR_REGRESSION.ipynb
-│       └── LOGISTIC_REGRESSION.ipynb
+│       ├── LOGISTIC_REGRESSION.ipynb
+│       └── NAIVE_BAYES.ipynb
 │
 ├── .gitattributes
 ├── .gitignore
