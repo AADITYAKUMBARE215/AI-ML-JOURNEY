@@ -67,6 +67,9 @@ AI-ML-JOURNEY/
 │       │   ├── heart.csv
 │       │   └── insurance.csv
 │       │
+│       ├── SCRATCH IMPLEMENTATION/
+│       │   └── LINEAR_REGRESSION_01.ipynb
+│       │
 │       ├── KNN.ipynb
 │       ├── LASSO_REGRESSION.ipynb
 │       ├── LINEAR_REGRESSION.ipynb
