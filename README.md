@@ -68,7 +68,8 @@ AI-ML-JOURNEY/
 │       │   └── insurance.csv
 │       │
 │       ├── SCRATCH IMPLEMENTATION/
-│       │   └── LINEAR_REGRESSION_01.ipynb
+│       │   ├── LINEAR_REGRESSION_01.ipynb
+│       │   └── LINEAR_REGRESSION_02.ipynb
 │       │
 │       ├── KNN.ipynb
 │       ├── LASSO_REGRESSION.ipynb
