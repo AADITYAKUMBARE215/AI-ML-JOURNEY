@@ -8,16 +8,15 @@ This repository serves as a growing knowledge base containing **concepts, implem
 
 ## 📂 Repository Structure
 
+```text
 AI-ML-JOURNEY/
 │
 ├── DATA ANALYSIS/
 │   ├── DATA COLLECTION/
 │   │   ├── CLEANED_DATA/
 │   │   │   └── data1.csv
-│   │   │
 │   │   ├── SCRAPED_DATA/
 │   │   │   └── data1.html
-│   │   │
 │   │   ├── data_collection.ipynb
 │   │   └── data_collection_HW.ipynb
 │   │
@@ -82,6 +81,8 @@ AI-ML-JOURNEY/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
+
 ---
 
 ## 🧭 Learning Areas
