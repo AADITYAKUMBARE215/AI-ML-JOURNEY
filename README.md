@@ -8,7 +8,6 @@ This repository serves as a growing knowledge base containing **concepts, implem
 
 ## 📂 Repository Structure
 
-```text
 AI-ML-JOURNEY/
 │
 ├── DATA ANALYSIS/
@@ -69,7 +68,9 @@ AI-ML-JOURNEY/
 │       │
 │       ├── SCRATCH IMPLEMENTATION/
 │       │   ├── LINEAR_REGRESSION_01.ipynb
-│       │   └── LINEAR_REGRESSION_02.ipynb
+│       │   ├── LINEAR_REGRESSION_02.ipynb
+│       │   ├── LOGISTIC_REGRESSION_01.ipynb
+│       │   └── LOGISTIC_REGRESSION_02.ipynb
 │       │
 │       ├── KNN.ipynb
 │       ├── LASSO_REGRESSION.ipynb
@@ -81,8 +82,6 @@ AI-ML-JOURNEY/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-```
-
 ---
 
 ## 🧭 Learning Areas
